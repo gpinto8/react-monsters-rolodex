@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/monsters-rolodex.git/static/css/main.43ce26a1.chunk.css",
-    "main.js": "/monsters-rolodex.git/static/js/main.da718244.chunk.js",
-    "main.js.map": "/monsters-rolodex.git/static/js/main.da718244.chunk.js.map",
-    "runtime-main.js": "/monsters-rolodex.git/static/js/runtime-main.efae399d.js",
-    "runtime-main.js.map": "/monsters-rolodex.git/static/js/runtime-main.efae399d.js.map",
-    "static/js/2.1f3314c8.chunk.js": "/monsters-rolodex.git/static/js/2.1f3314c8.chunk.js",
-    "static/js/2.1f3314c8.chunk.js.map": "/monsters-rolodex.git/static/js/2.1f3314c8.chunk.js.map",
-    "index.html": "/monsters-rolodex.git/index.html",
-    "precache-manifest.bb8e8b9a09a01c27abef15fcdd083f29.js": "/monsters-rolodex.git/precache-manifest.bb8e8b9a09a01c27abef15fcdd083f29.js",
-    "service-worker.js": "/monsters-rolodex.git/service-worker.js",
-    "static/css/main.43ce26a1.chunk.css.map": "/monsters-rolodex.git/static/css/main.43ce26a1.chunk.css.map",
-    "static/js/2.1f3314c8.chunk.js.LICENSE.txt": "/monsters-rolodex.git/static/js/2.1f3314c8.chunk.js.LICENSE.txt"
+    "main.css": "/provaseria/static/css/main.43ce26a1.chunk.css",
+    "main.js": "/provaseria/static/js/main.54a06e33.chunk.js",
+    "main.js.map": "/provaseria/static/js/main.54a06e33.chunk.js.map",
+    "runtime-main.js": "/provaseria/static/js/runtime-main.8ba2dca9.js",
+    "runtime-main.js.map": "/provaseria/static/js/runtime-main.8ba2dca9.js.map",
+    "static/js/2.1f3314c8.chunk.js": "/provaseria/static/js/2.1f3314c8.chunk.js",
+    "static/js/2.1f3314c8.chunk.js.map": "/provaseria/static/js/2.1f3314c8.chunk.js.map",
+    "index.html": "/provaseria/index.html",
+    "precache-manifest.c53c2c370a2b3f55a0bc1017a02a49eb.js": "/provaseria/precache-manifest.c53c2c370a2b3f55a0bc1017a02a49eb.js",
+    "service-worker.js": "/provaseria/service-worker.js",
+    "static/css/main.43ce26a1.chunk.css.map": "/provaseria/static/css/main.43ce26a1.chunk.css.map",
+    "static/js/2.1f3314c8.chunk.js.LICENSE.txt": "/provaseria/static/js/2.1f3314c8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.efae399d.js",
+    "static/js/runtime-main.8ba2dca9.js",
     "static/js/2.1f3314c8.chunk.js",
     "static/css/main.43ce26a1.chunk.css",
-    "static/js/main.da718244.chunk.js"
+    "static/js/main.54a06e33.chunk.js"
   ]
 }
